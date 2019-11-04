@@ -1,0 +1,17 @@
+E:\Tecsup\V-Proyectos\AMM\Trigger\Trigger\Trigger\bin\Debug\netstandard2.0\Trigger.deps.json
+E:\Tecsup\V-Proyectos\AMM\Trigger\Trigger\Trigger\bin\Debug\netstandard2.0\Trigger.dll
+E:\Tecsup\V-Proyectos\AMM\Trigger\Trigger\Trigger\bin\Debug\netstandard2.0\Trigger.pdb
+E:\Tecsup\V-Proyectos\AMM\Trigger\Trigger\Trigger\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Tecsup\V-Proyectos\AMM\Trigger\Trigger\Trigger\obj\Debug\netstandard2.0\Data.xaml.g.cs
+E:\Tecsup\V-Proyectos\AMM\Trigger\Trigger\Trigger\obj\Debug\netstandard2.0\Event.xaml.g.cs
+E:\Tecsup\V-Proyectos\AMM\Trigger\Trigger\Trigger\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Tecsup\V-Proyectos\AMM\Trigger\Trigger\Trigger\obj\Debug\netstandard2.0\MultiTrigger.xaml.g.cs
+E:\Tecsup\V-Proyectos\AMM\Trigger\Trigger\Trigger\obj\Debug\netstandard2.0\Property.xaml.g.cs
+E:\Tecsup\V-Proyectos\AMM\Trigger\Trigger\Trigger\obj\Debug\netstandard2.0\Style.xaml.g.cs
+E:\Tecsup\V-Proyectos\AMM\Trigger\Trigger\Trigger\obj\Debug\netstandard2.0\Trigger.csproj.CoreCompileInputs.cache
+E:\Tecsup\V-Proyectos\AMM\Trigger\Trigger\Trigger\obj\Debug\netstandard2.0\Trigger.AssemblyInfoInputs.cache
+E:\Tecsup\V-Proyectos\AMM\Trigger\Trigger\Trigger\obj\Debug\netstandard2.0\Trigger.AssemblyInfo.cs
+E:\Tecsup\V-Proyectos\AMM\Trigger\Trigger\Trigger\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Tecsup\V-Proyectos\AMM\Trigger\Trigger\Trigger\obj\Debug\netstandard2.0\Trigger.dll
+E:\Tecsup\V-Proyectos\AMM\Trigger\Trigger\Trigger\obj\Debug\netstandard2.0\Trigger.pdb
+E:\Tecsup\V-Proyectos\AMM\Trigger\Trigger\Trigger\obj\Debug\netstandard2.0\Trigger.csprojAssemblyReference.cache
